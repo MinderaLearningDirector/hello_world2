@@ -9,5 +9,5 @@ it can go for many lines.
 import "fmt"
 
 func main() {
-	fmt.Println("Hello Minders again.")
+	fmt.Println("Hello Minders !")
 }
